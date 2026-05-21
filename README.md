@@ -66,4 +66,20 @@ Cada etapa contiene:
 https://youtu.be/c8F_aoYE-h8?si=y7JQgG75URBMtlrI
 
 # PCB Design
-Actualmente el diseño de PCB se encuentra en proceso de desarrollo.
+Actualmente el diseño PCB se encuentra en desarrollo utilizando KiCad.
+## Estado actual
+- Placement inicial de componentes completado
+- Routing preliminar implementado en 2 capas
+- Integración de comparadores LM339N y etapa lógica
+- Vista 3D funcional del PCB
+- Distribución inicial de señales analógicas y digitales
+## Pendiente
+- Optimización del routing
+- Implementación de planos GND/VCC
+- Revisión DRC/ERC
+- Ajustes de manufactura
+- Generación de archivos Gerber
+
+## Vista preliminar del PCB
+<img width="1448" height="412" alt="Captura de pantalla 2026-05-20 164512" src="https://github.com/user-attachments/assets/03adaa8e-d476-4a54-a0ea-b68af74e0f12" />
+<img width="1605" height="408" alt="Captura de pantalla 2026-05-20 161824" src="https://github.com/user-attachments/assets/c2f46898-191b-4bdf-8f4f-b3239d92b368" />
