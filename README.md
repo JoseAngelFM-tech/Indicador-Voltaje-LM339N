@@ -81,6 +81,6 @@ Actualmente el diseño PCB se encuentra en desarrollo utilizando KiCad.
 - Generación de archivos Gerber
 
 ## Vista preliminar del PCB
-<img width="981" height="670" alt="Captura de pantalla 2026-06-01 223254" src="https://github.com/user-attachments/assets/49cd2d49-a055-424c-a1f8-dd04f57ace74" />
+<img width="929" height="648" alt="Captura de pantalla 2026-06-09 171325" src="https://github.com/user-attachments/assets/71128f63-1b88-4e10-a846-1c9ef85c7421" />
 <img width="1448" height="412" alt="Captura de pantalla 2026-05-20 164512" src="https://github.com/user-attachments/assets/03adaa8e-d476-4a54-a0ea-b68af74e0f12" />
 <img width="1605" height="408" alt="Captura de pantalla 2026-05-20 161824" src="https://github.com/user-attachments/assets/c2f46898-191b-4bdf-8f4f-b3239d92b368" />
